@@ -75,5 +75,11 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": -1,
+    "workbench.editorAssociations": {
+      "*.sqlite3": "default"
+    },
+    "liveServer.settings.donotShowInfoMsg": true
 }
