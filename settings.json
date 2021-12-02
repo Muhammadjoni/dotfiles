@@ -77,9 +77,11 @@
     },
     "workbench.startupEditor": "newUntitledFile",
     "security.workspace.trust.untrustedFiles": "open",
-    "window.zoomLevel": -1,
     "workbench.editorAssociations": {
-      "*.sqlite3": "default"
+      "*.sqlite3": "default",
+      "*.wav": "default"
     },
-    "liveServer.settings.donotShowInfoMsg": true
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Bear Theme",
+    "window.zoomLevel": -2
 }
