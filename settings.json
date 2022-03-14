@@ -82,6 +82,6 @@
       "*.wav": "default"
     },
     "liveServer.settings.donotShowInfoMsg": true,
-    "workbench.colorTheme": "Bear Theme",
-    "window.zoomLevel": -2
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Atom One Dark"
 }
